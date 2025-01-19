@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project SFML\\gra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96CD5510-0707-41CE-B3DF-85532817CE13}|gra\\gra.vcxproj|D:\\Project SFML\\gra\\gra\\gra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96CD5510-0707-41CE-B3DF-85532817CE13}|gra\\gra.vcxproj|solutionrelative:gra\\gra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project SFML\\gra\\gra\\stale.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gra\\stale.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project SFML\\gra\\gra\\belka.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gra\\belka.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project SFML\\gra\\gra\\pilka.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gra\\pilka.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project SFML\\gra\\gra\\blok.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gra\\blok.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stale.h",
+              "DocumentMoniker": "D:\\Project SFML\\gra\\gra\\stale.h",
+              "RelativeDocumentMoniker": "gra\\stale.h",
+              "ToolTip": "D:\\Project SFML\\gra\\gra\\stale.h",
+              "RelativeToolTip": "gra\\stale.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-19T19:30:20.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pilka.h",
+              "DocumentMoniker": "D:\\Project SFML\\gra\\gra\\pilka.h",
+              "RelativeDocumentMoniker": "gra\\pilka.h",
+              "ToolTip": "D:\\Project SFML\\gra\\gra\\pilka.h",
+              "RelativeToolTip": "gra\\pilka.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-19T19:30:06.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "blok.h",
+              "DocumentMoniker": "D:\\Project SFML\\gra\\gra\\blok.h",
+              "RelativeDocumentMoniker": "gra\\blok.h",
+              "ToolTip": "D:\\Project SFML\\gra\\gra\\blok.h",
+              "RelativeToolTip": "gra\\blok.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-19T19:29:51.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "belka.h",
+              "DocumentMoniker": "D:\\Project SFML\\gra\\gra\\belka.h",
+              "RelativeDocumentMoniker": "gra\\belka.h",
+              "ToolTip": "D:\\Project SFML\\gra\\gra\\belka.h",
+              "RelativeToolTip": "gra\\belka.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-19T19:29:26.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gra.cpp",
+              "DocumentMoniker": "D:\\Project SFML\\gra\\gra\\gra.cpp",
+              "RelativeDocumentMoniker": "gra\\gra.cpp",
+              "ToolTip": "D:\\Project SFML\\gra\\gra\\gra.cpp",
+              "RelativeToolTip": "gra\\gra.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-19T18:51:14.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

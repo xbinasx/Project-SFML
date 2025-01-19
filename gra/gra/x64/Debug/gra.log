@@ -1,0 +1,4 @@
+﻿  gra.cpp
+D:\Twoja stara\gra\gra\pilka.h(1,10): error C1083: Nie można otworzyć pliku dołącz: 'belka.hpp': No such file or directory
+  (kompilowanie pliku źródłowego „gra.cpp”)
+  
